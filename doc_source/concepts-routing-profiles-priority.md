@@ -12,7 +12,7 @@ For example, one group of agents is assigned to a Sales routing profile\. Since 
 |  Sales  |  1  |  0  | 
 |  Support  |  2  |  0  | 
 
-If there are no contacts in the Sales queue, then the agents will be presented with contacts from the Support queue\. 
+If there are no contacts in the Sales queue, then the agents will be presented with contacts from the Support queue\. It goes to the agent who has been idle for the longest time\.
 
 ## Example 2: Same priority but different delay<a name="concepts-routing-profiles-priority-example2"></a>
 
